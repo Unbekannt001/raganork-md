@@ -79,7 +79,7 @@
             "value":"{pp} Active since {uptime}\n User:{sender}"
         },
        "SESSION": {
-            "description": "Your MD session",
+            "description": "Raganork~b2bcd471131b21b4ccb4d03d81fd2032:475170656e2b3333336f773d",
             "required": true
              
         }
